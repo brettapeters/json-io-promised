@@ -1,6 +1,6 @@
 {
   "name": "json-io-promised",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Promise wrapper around fs for reading/writing JSON",
   "main": "index.js",
   "directories": {
