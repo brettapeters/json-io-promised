@@ -4,6 +4,10 @@ This is a simple promise-based wrapper around Node's File System that reads & wr
 
 ## Usage
 
+```sh
+$ npm install json-io-promised
+```
+
 ```javascript
 var jio = require('json-io-promised');
 
